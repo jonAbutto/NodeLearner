@@ -1,0 +1,19 @@
+{
+  "name": "ellis_twilio_app",
+  "version": "1.0.0",
+  "description": "this is a sample twilio api app that makes two way calls, req, res",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twilio",
+    "whatsApp"
+  ],
+  "author": "ellis army",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twilio": "^3.39.5"
+  }
+}
